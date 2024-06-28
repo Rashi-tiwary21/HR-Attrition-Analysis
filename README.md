@@ -1,6 +1,9 @@
 # HR-Attrition-Analysis
 This repository contains an Excel-based HR Attrition Dashboard designed to provide comprehensive insights into employee attrition within an organization. The dashboard visualizes key HR metrics and offers dynamic filtering options to analyze attrition by various dimensions.
 
+(https://github.com/Rashi-tiwary21/logos/blob/main/HR%20Dashboard.png)
+
+
 **Features:**
 
 Key Metrics Visualization: Displays total employees (2,925), total employee attrition rate (17%), and total active employees (83%).

@@ -12,11 +12,17 @@ Dynamic Filters: Allows filtering by gender and department to tailor the analysi
 **Detailed Attrition Analysis:**
 
 ▪️▪️By Job Role: Shows attrition for different roles, highlighting specific areas of concern.
+
 ▪️▪️By Education: Analyzes attrition based on employees' educational background.
+
 ▪️▪️By Age Group and Gender: Provides demographic insights into attrition rates.
+
 ▪️▪️By Performance and Work Distance: Highlights attrition by performance levels and commute distance.
+
 ▪️▪️By Business Travel: Assesses the impact of travel frequency on employee attrition.
+
 ▪️▪️Gender-Specific Insights: Presents attrition rates by gender (37% female, 63% male).
+
 ▪️▪️Demographic Analysis: Calculates the average age of employees (37 years) to support HR planning.
 
 Files
